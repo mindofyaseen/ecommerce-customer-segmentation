@@ -89,3 +89,8 @@ The goal is to:
 2. **Install dependencies (Requirements.txt)**
 3. **Place dataset in the project root**
 4. **Run Jupyter Notebook**
+
+---
+
+## 📌 Author
+- Muhammad Yaseen  
